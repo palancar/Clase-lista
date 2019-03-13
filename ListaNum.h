@@ -5,6 +5,7 @@
 #include <stdlib.h>
 
 #define MAX_ELEM 100
+//COMETE TOAAAAA MI POLLAAAAAAAAAAAA
 
 using namespace std;
 
